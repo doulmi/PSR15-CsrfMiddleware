@@ -1,0 +1,5 @@
+.idea/
+.php_cs.cache
+php_cs.php
+phpunit.xml
+vendor/
